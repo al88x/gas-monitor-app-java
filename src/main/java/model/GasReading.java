@@ -6,6 +6,18 @@ public class GasReading {
     private double value;
     private long timestamp;
 
+
+    public GasReading() {
+    }
+
+    public GasReading(String locationId, String eventId, double value, long timestamp) {
+        this.locationId = locationId;
+        this.eventId = eventId;
+        this.value = value;
+        this.timestamp = timestamp;
+    }
+
+
     public String getLocationId() {
         return locationId;
     }
@@ -47,4 +59,8 @@ public class GasReading {
                 ", timestamp=" + timestamp +
                 '}';
     }
+
+    public boolean hasMissingField(){
+        return locationId == null || eventId == null || value == 0 || timestamp == 0;
+     }
 }

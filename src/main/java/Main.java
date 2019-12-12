@@ -18,8 +18,6 @@ import java.util.List;
 
 public class Main {
 
-
-
     public static void main(String[] args) throws InterruptedException, FileNotFoundException {
         File locationsJsonFile = AWSUtils.fetchLocationFileFromS3Bucket(args[0], args[1]);
         List<Location> locations = JSONFileParser.parseLocationFile(locationsJsonFile);
@@ -43,13 +41,17 @@ public class Main {
             if (messages.size() > 0) {
                 for(Message message : messages){
                     GasReading gasReading = JSONFileParser.parseSqsMessage(message.getBody());
-                    boolean isGasReadingValid = gasReadingService.isValid(gasReading);
+                    if(gasReading == null){
+                        continue;
+                    }
+                    boolean isGasReadingValid = gasReadingService.processReading(gasReading);
                     if (!isGasReadingValid) {
                         continue;
                     }
                     System.out.println("Gas reading: " + gasReading.getValue());
                     String messageReceiptHandle = message.getReceiptHandle();
-                    sqs.deleteMessage(new DeleteMessageRequest().withQueueUrl(myQueueUrl).withReceiptHandle(messageReceiptHandle));
+                    sqs.deleteMessage(new DeleteMessageRequest().withQueueUrl(myQueueUrl).
+                            withReceiptHandle(messageReceiptHandle));
                 }
             }
         }

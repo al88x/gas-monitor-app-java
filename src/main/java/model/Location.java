@@ -6,6 +6,14 @@ public class Location {
     private double x;
     private double y;
 
+    public Location() {
+    }
+
+    public Location(String id, double x, double y) {
+        this.id = id;
+        this.x = x;
+        this.y = y;
+    }
 
     public String getId() {
         return id;

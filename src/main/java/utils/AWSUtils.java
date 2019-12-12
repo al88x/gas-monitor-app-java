@@ -45,7 +45,4 @@ public class AWSUtils {
             LOGGER.info("Download completed");
             return new File(path);
         }
-
-
-
 }

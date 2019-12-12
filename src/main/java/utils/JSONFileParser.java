@@ -1,6 +1,5 @@
 package utils;
 
-import com.amazonaws.services.sqs.model.Message;
 import com.google.gson.*;
 import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonReader;
@@ -41,11 +40,17 @@ public class JSONFileParser {
     }
 
     public static GasReading parseSqsMessage(String sqsMessage) {
+
         JsonObject jsonObject = JsonParser.parseString(sqsMessage).getAsJsonObject();
         String gasReadingFromSqs = jsonObject.get("Message").getAsString();
         Gson gson = new Gson();
 
-        return gson.fromJson(gasReadingFromSqs, GasReading.class);
+        GasReading gasReading = gson.fromJson(gasReadingFromSqs, GasReading.class);
+        if(gasReading.hasMissingField()){
+            gasReading = null;
+            LOGGER.info("Invalid reading message from sqs: " + gasReadingFromSqs);
+        }
+        return gasReading;
     }
 
 }
