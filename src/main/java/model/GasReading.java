@@ -3,8 +3,8 @@ package model;
 public class GasReading {
     private String locationId;
     private String eventId;
-    private double value;
-    private long timestamp;
+    private Double value;
+    private Long timestamp;
 
 
     public GasReading() {
@@ -61,6 +61,6 @@ public class GasReading {
     }
 
     public boolean hasMissingField(){
-        return locationId == null || eventId == null || value == 0 || timestamp == 0;
+        return locationId == null || eventId == null || value == null || timestamp == null;
      }
 }

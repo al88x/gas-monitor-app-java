@@ -1,275 +1,101 @@
-[2019-12-10 13:02:26,471] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-10 13:02:27,205] INFO - AWSS3BucketService - Download completed
-[2019-12-10 13:20:09,493] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-10 13:20:10,318] INFO - AWSS3BucketService - Download completed
-[2019-12-10 13:20:30,579] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-10 13:20:31,377] INFO - AWSS3BucketService - Download completed
-[2019-12-10 13:21:25,548] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-10 13:21:26,368] INFO - AWSS3BucketService - Download completed
-[2019-12-10 13:21:44,444] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-10 13:21:45,412] INFO - AWSS3BucketService - Download completed
-[2019-12-10 13:22:02,137] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-10 13:22:02,952] INFO - AWSS3BucketService - Download completed
-[2019-12-10 13:23:18,656] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-10 13:23:19,489] INFO - AWSS3BucketService - Download completed
-[2019-12-11 10:43:16,579] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 10:43:17,607] INFO - AWSS3BucketService - Download completed
-[2019-12-11 10:43:35,628] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 10:43:36,486] INFO - AWSS3BucketService - Download completed
-[2019-12-11 10:48:48,122] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 10:48:48,909] INFO - AWSS3BucketService - Download completed
-[2019-12-11 11:10:20,507] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 11:10:21,303] INFO - AWSS3BucketService - Download completed
-[2019-12-11 11:11:53,354] INFO - AWSS3BucketService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 11:11:54,157] INFO - AWSS3BucketService - Download completed
-[2019-12-11 12:22:53,696] INFO - GasReadingService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 12:22:54,579] INFO - GasReadingService - Download completed
-[2019-12-11 12:30:04,258] INFO - GasReadingService - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 12:30:05,109] INFO - GasReadingService - Download completed
-[2019-12-11 14:24:44,175] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:24:45,030] INFO - AWSUtils - Download completed
-[2019-12-11 14:25:14,568] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:25:15,352] INFO - AWSUtils - Download completed
-[2019-12-11 14:27:01,612] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:27:02,445] INFO - AWSUtils - Download completed
-[2019-12-11 14:28:01,777] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:28:02,573] INFO - AWSUtils - Download completed
-[2019-12-11 14:28:16,219] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:28:16,996] INFO - AWSUtils - Download completed
-[2019-12-11 14:28:22,593] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:28:23,393] INFO - AWSUtils - Download completed
-[2019-12-11 14:28:27,035] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:28:27,823] INFO - AWSUtils - Download completed
-[2019-12-11 14:28:43,813] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:28:44,616] INFO - AWSUtils - Download completed
-[2019-12-11 14:33:34,613] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:33:35,510] INFO - AWSUtils - Download completed
-[2019-12-11 14:34:32,633] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:34:33,476] INFO - AWSUtils - Download completed
-[2019-12-11 14:34:49,146] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:34:49,967] INFO - AWSUtils - Download completed
-[2019-12-11 14:35:47,195] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:35:48,004] INFO - AWSUtils - Download completed
-[2019-12-11 14:36:09,538] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:36:10,341] INFO - AWSUtils - Download completed
-[2019-12-11 14:37:03,343] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:37:04,144] INFO - AWSUtils - Download completed
-[2019-12-11 14:37:58,836] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:37:59,697] INFO - AWSUtils - Download completed
-[2019-12-11 14:42:24,999] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:42:25,829] INFO - AWSUtils - Download completed
-[2019-12-11 14:43:56,231] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:43:57,017] INFO - AWSUtils - Download completed
-[2019-12-11 14:44:13,011] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 14:44:13,806] INFO - AWSUtils - Download completed
-[2019-12-11 15:00:55,654] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-11 15:00:56,466] INFO - AWSUtils - Download completed
-[2019-12-12 10:43:14,693] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 10:43:15,688] INFO - AWSUtils - Download completed
-[2019-12-12 10:43:15,689] INFO - JSONFileParser - Started parsing json file: locations.json
-[2019-12-12 10:43:15,715] INFO - JSONFileParser - Successfully parsed json file: locations.json
-[2019-12-12 10:44:00,866] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 10:44:01,667] INFO - AWSUtils - Download completed
-[2019-12-12 10:44:01,668] INFO - JSONFileParser - Started parsing json file: locations.json
-[2019-12-12 10:44:01,693] INFO - JSONFileParser - Successfully parsed json file: locations.json
-[2019-12-12 10:44:14,160] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 10:44:15,067] INFO - AWSUtils - Download completed
-[2019-12-12 10:44:15,068] INFO - JSONFileParser - Started parsing json file: locations.json
-[2019-12-12 10:44:15,093] INFO - JSONFileParser - Successfully parsed json file: locations.json
-[2019-12-12 10:44:31,428] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 10:44:32,277] INFO - AWSUtils - Download completed
-[2019-12-12 10:44:32,278] INFO - JSONFileParser - Started parsing json file: locations.json
-[2019-12-12 10:44:32,305] INFO - JSONFileParser - Successfully parsed json file: locations.json
-[2019-12-12 10:45:22,734] INFO - JSONFileParser - Started parsing json file: validLocations.json
-[2019-12-12 10:45:22,771] INFO - JSONFileParser - Successfully parsed json file: validLocations.json
-[2019-12-12 10:48:14,784] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 10:48:15,608] INFO - AWSUtils - Download completed
-[2019-12-12 10:48:15,609] INFO - JSONFileParser - Started parsing json file: locations.json
-[2019-12-12 10:48:15,634] INFO - JSONFileParser - Successfully parsed json file: locations.json
-[2019-12-12 10:58:12,050] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 10:58:12,845] INFO - AWSUtils - Download completed
-[2019-12-12 10:58:12,846] INFO - JSONFileParser - Started parsing json file: locations.json
-[2019-12-12 10:58:12,870] INFO - JSONFileParser - Successfully parsed json file: locations.json
-[2019-12-12 11:23:26,589] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 11:23:27,402] INFO - AWSUtils - Download completed
-[2019-12-12 11:23:27,403] INFO - JSONFileParser - Started parsing json file: locations.json
-[2019-12-12 11:23:27,431] INFO - JSONFileParser - Successfully parsed json file: locations.json
-[2019-12-12 12:02:44,963] INFO - JSONFileParser - Invalid reading message from sqs: {"eventId":"654b1799-6de6-467d-b680-730d762aad3f","value":6.8561332379019095,"timestamp":1576149824757}
-[2019-12-12 12:02:58,649] INFO - JSONFileParser - Invalid reading message from sqs: {"eventId":"654b1799-6de6-467d-b680-730d762aad3f","value":6.8561332379019095,"timestamp":1576149824757}
-[2019-12-12 12:44:46,062] INFO - JSONFileParser - Invalid reading message from sqs: {"eventId":"654b1799-6de6-467d-b680-730d762aad3f","value":6.8561332379019095,"timestamp":1576149824757}
-[2019-12-12 12:44:46,070] INFO - JSONFileParser - Started parsing json file: validLocations.json
-[2019-12-12 12:44:46,076] INFO - JSONFileParser - Successfully parsed json file: validLocations.json
-[2019-12-12 12:59:55,688] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,692] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,739] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,739] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,739] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576150124758}
-[2019-12-12 12:59:55,739] INFO - GasReadingService - Deleting eventKey of a gas reading older than 5 minutes. EventKey: 654b1799-6de6-467d-b680-730d762aad3f, Timestamp: 1576149824757
-[2019-12-12 12:59:55,740] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576150124758}
-[2019-12-12 12:59:55,740] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='714e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,740] INFO - GasReadingService - Unknown location for gas reading: GasReading{locationId='714e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,741] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='714e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,741] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,741] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,741] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,741] INFO - GasReadingService - Gas reading is a duplicate: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,741] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 12:59:55,792] INFO - JSONFileParser - Invalid reading message from sqs: {"eventId":"654b1799-6de6-467d-b680-730d762aad3f","value":6.8561332379019095,"timestamp":1576149824757}
-[2019-12-12 12:59:55,798] INFO - JSONFileParser - Started parsing json file: validLocations.json
-[2019-12-12 12:59:55,800] INFO - JSONFileParser - Successfully parsed json file: validLocations.json
-[2019-12-12 13:01:45,388] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:02:56,410] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:04:30,104] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:04:34,823] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:07:50,022] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:08:10,543] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:09:48,309] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:10:23,767] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:11:08,032] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,035] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,072] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,072] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,072] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576150124758}
-[2019-12-12 13:11:08,072] INFO - GasReadingService - Deleting eventKey of a gas reading older than 5 minutes. EventKey: 654b1799-6de6-467d-b680-730d762aad3f, Timestamp: 1576149824757
-[2019-12-12 13:11:08,072] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576150124758}
-[2019-12-12 13:11:08,073] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='714e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,073] INFO - GasReadingService - Unknown location for gas reading: GasReading{locationId='714e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,073] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='714e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,074] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,074] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,074] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,074] INFO - GasReadingService - Gas reading is a duplicate: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,074] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
-[2019-12-12 13:11:08,115] INFO - JSONFileParser - Invalid reading message from sqs: {"eventId":"654b1799-6de6-467d-b680-730d762aad3f","value":6.8561332379019095,"timestamp":1576149824757}
-[2019-12-12 13:11:08,119] INFO - JSONFileParser - Started parsing json file: validLocations.json
-[2019-12-12 13:11:08,127] INFO - JSONFileParser - Successfully parsed json file: validLocations.json
-[2019-12-12 13:11:35,128] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:28:44,134] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 13:28:44,941] INFO - AWSUtils - Download completed
-[2019-12-12 13:28:44,942] INFO - JSONFileParser - Started parsing json file: locations.json
-[2019-12-12 13:28:44,970] INFO - JSONFileParser - Successfully parsed json file: locations.json
-[2019-12-12 13:28:45,783] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='e5db6960-dfd2-4f0b-9f5b-824c9f6b0036', value=3.476270069099867, timestamp=1576157325715}
-[2019-12-12 13:28:45,784] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='e5db6960-dfd2-4f0b-9f5b-824c9f6b0036', value=3.476270069099867, timestamp=1576157325715}
-[2019-12-12 13:28:46,527] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='5dc8866a-1d54-49e4-a0b4-53106fdd82c7', value=20.648043627123087, timestamp=1576157326373}
-[2019-12-12 13:28:46,527] INFO - GasReadingService - Unknown location for gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='5dc8866a-1d54-49e4-a0b4-53106fdd82c7', value=20.648043627123087, timestamp=1576157326373}
-[2019-12-12 13:28:46,528] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='5dc8866a-1d54-49e4-a0b4-53106fdd82c7', value=20.648043627123087, timestamp=1576157326373}
-[2019-12-12 13:28:47,040] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='80b63cad-6fdc-43eb-8097-1764da09c120', value=4.261263700065312, timestamp=1576157326981}
-[2019-12-12 13:28:47,041] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='80b63cad-6fdc-43eb-8097-1764da09c120', value=4.261263700065312, timestamp=1576157326981}
-[2019-12-12 13:28:47,698] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='547beb95-7383-4a38-b93c-c3cf2c448ea0', value=2.4026683813832843, timestamp=1576157327638}
-[2019-12-12 13:28:47,698] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='547beb95-7383-4a38-b93c-c3cf2c448ea0', value=2.4026683813832843, timestamp=1576157327638}
-[2019-12-12 13:28:48,220] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='4f42fc5f-872c-47e1-841a-b5caadceb102', value=7.933956168963596, timestamp=1576157328089}
-[2019-12-12 13:28:48,221] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='4f42fc5f-872c-47e1-841a-b5caadceb102', value=7.933956168963596, timestamp=1576157328089}
-[2019-12-12 13:28:49,054] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='21c45cda-1afb-4060-85a7-59707103e818', value=7.91900473778666, timestamp=1576157328994}
-[2019-12-12 13:28:49,054] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='21c45cda-1afb-4060-85a7-59707103e818', value=7.91900473778666, timestamp=1576157328994}
-[2019-12-12 13:28:49,671] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='63d394d2-fea1-4a25-a1ee-6c12592dffa9', eventId='6a7328f3-bf40-476d-8ce3-61fa41e3ab3f', value=3.157180802290593, timestamp=1576157329573}
-[2019-12-12 13:28:49,672] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='63d394d2-fea1-4a25-a1ee-6c12592dffa9', eventId='6a7328f3-bf40-476d-8ce3-61fa41e3ab3f', value=3.157180802290593, timestamp=1576157329573}
-[2019-12-12 13:28:50,160] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a081c88-7d6a-46cc-a429-4dd52d7e899a', eventId='e4eb0340-db7a-40b2-9624-06dba994a548', value=7.732197486832402, timestamp=1576157330101}
-[2019-12-12 13:28:50,161] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a081c88-7d6a-46cc-a429-4dd52d7e899a', eventId='e4eb0340-db7a-40b2-9624-06dba994a548', value=7.732197486832402, timestamp=1576157330101}
-[2019-12-12 13:28:50,406] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='80f578eb-773e-4902-b23d-b0c9560c58b9', eventId='ebf39a11-b888-4872-9e45-6e0ebf729d09', value=1.7384744819087734, timestamp=1576157330349}
-[2019-12-12 13:28:50,406] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='80f578eb-773e-4902-b23d-b0c9560c58b9', eventId='ebf39a11-b888-4872-9e45-6e0ebf729d09', value=1.7384744819087734, timestamp=1576157330349}
-[2019-12-12 13:28:51,060] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='84a41d1d-564f-47b4-9c24-0c40f175a4fa', value=2.791186244672545, timestamp=1576157331002}
-[2019-12-12 13:28:51,060] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='84a41d1d-564f-47b4-9c24-0c40f175a4fa', value=2.791186244672545, timestamp=1576157331002}
-[2019-12-12 13:28:51,390] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='1aba4757-a0ac-4a81-8bf7-4d7eb0351209', value=11.024428647244827, timestamp=1576157331331}
-[2019-12-12 13:28:51,391] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='1aba4757-a0ac-4a81-8bf7-4d7eb0351209', value=11.024428647244827, timestamp=1576157331331}
-[2019-12-12 13:28:51,524] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='1b040ed6-f4c6-40b1-b54b-7b80bd23603a', value=2.696410705958763, timestamp=1576157149343}
-[2019-12-12 13:28:51,525] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='1b040ed6-f4c6-40b1-b54b-7b80bd23603a', value=2.696410705958763, timestamp=1576157149343}
-[2019-12-12 13:28:51,803] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='b2bc34db-91d0-420c-beb9-f1f9dbb59d03', value=20.64729821045642, timestamp=1576157331740}
-[2019-12-12 13:28:51,803] INFO - GasReadingService - Unknown location for gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='b2bc34db-91d0-420c-beb9-f1f9dbb59d03', value=20.64729821045642, timestamp=1576157331740}
-[2019-12-12 13:28:51,803] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='b2bc34db-91d0-420c-beb9-f1f9dbb59d03', value=20.64729821045642, timestamp=1576157331740}
-[2019-12-12 13:28:52,090] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='2b2d8418-4dff-4c98-9f44-5838f44f0a84', value=4.262404300463491, timestamp=1576157332028}
-[2019-12-12 13:28:52,091] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='2b2d8418-4dff-4c98-9f44-5838f44f0a84', value=4.262404300463491, timestamp=1576157332028}
-[2019-12-12 13:28:52,371] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='09132ef9-3f7b-450a-961f-afc6becbcd2b', value=3.479354116785528, timestamp=1576157332316}
-[2019-12-12 13:28:52,371] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='09132ef9-3f7b-450a-961f-afc6becbcd2b', value=3.479354116785528, timestamp=1576157332316}
-[2019-12-12 13:28:53,700] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='78b09127-a2ed-44b3-8e27-3f69905c5970', value=2.4091147653797043, timestamp=1576157333627}
-[2019-12-12 13:28:53,700] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='78b09127-a2ed-44b3-8e27-3f69905c5970', value=2.4091147653797043, timestamp=1576157333627}
-[2019-12-12 13:28:54,014] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='c8448669-1696-48f2-922e-82a4a2ad4e88', value=7.939655836487237, timestamp=1576157333956}
-[2019-12-12 13:28:54,014] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='c8448669-1696-48f2-922e-82a4a2ad4e88', value=7.939655836487237, timestamp=1576157333956}
-[2019-12-12 13:28:54,996] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='80f578eb-773e-4902-b23d-b0c9560c58b9', eventId='2b610e84-513c-409f-817a-bf314e7ed870', value=1.7385695015234015, timestamp=1576157334938}
-[2019-12-12 13:28:54,996] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='80f578eb-773e-4902-b23d-b0c9560c58b9', eventId='2b610e84-513c-409f-817a-bf314e7ed870', value=1.7385695015234015, timestamp=1576157334938}
-[2019-12-12 13:28:55,078] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='d17550c8-5c99-409c-9080-55e2d46c8441', value=7.92304204552749, timestamp=1576157335022}
-[2019-12-12 13:28:55,078] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='d17550c8-5c99-409c-9080-55e2d46c8441', value=7.92304204552749, timestamp=1576157335022}
-[2019-12-12 13:28:55,140] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='63d394d2-fea1-4a25-a1ee-6c12592dffa9', eventId='92bc0f8c-9d70-4f1a-809d-b90efde19acb', value=3.1626410349829945, timestamp=1576157335064}
-[2019-12-12 13:28:55,140] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='63d394d2-fea1-4a25-a1ee-6c12592dffa9', eventId='92bc0f8c-9d70-4f1a-809d-b90efde19acb', value=3.1626410349829945, timestamp=1576157335064}
-[2019-12-12 13:28:55,814] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a081c88-7d6a-46cc-a429-4dd52d7e899a', eventId='7b176619-eee9-431a-a8b9-96d365b953c5', value=7.725311489716654, timestamp=1576157335758}
-[2019-12-12 13:28:55,815] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a081c88-7d6a-46cc-a429-4dd52d7e899a', eventId='7b176619-eee9-431a-a8b9-96d365b953c5', value=7.725311489716654, timestamp=1576157335758}
-[2019-12-12 13:28:57,660] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='40b5c569-aafa-406f-b4f7-7c040cf846fb', value=11.025093054960166, timestamp=1576157337605}
-[2019-12-12 13:28:57,660] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='40b5c569-aafa-406f-b4f7-7c040cf846fb', value=11.025093054960166, timestamp=1576157337605}
-[2019-12-12 13:28:57,945] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='78703769-fb71-442c-acb6-ffc8c8f96ff1', value=2.7862446590152614, timestamp=1576157337890}
-[2019-12-12 13:28:57,945] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='78703769-fb71-442c-acb6-ffc8c8f96ff1', value=2.7862446590152614, timestamp=1576157337890}
-[2019-12-12 13:28:58,147] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='eb909df8-ddc1-460b-8a2c-b6eca7a0d107', value=3.4821157610398235, timestamp=1576157338093}
-[2019-12-12 13:28:58,147] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='eb909df8-ddc1-460b-8a2c-b6eca7a0d107', value=3.4821157610398235, timestamp=1576157338093}
-[2019-12-12 13:28:58,275] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='c8dfd1b8-5498-4937-a5ae-57fd09cc90f5', value=4.263603885300126, timestamp=1576157338215}
-[2019-12-12 13:28:58,275] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='c8dfd1b8-5498-4937-a5ae-57fd09cc90f5', value=4.263603885300126, timestamp=1576157338215}
-[2019-12-12 13:28:58,349] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='b76c1b00-458c-4ead-9c1f-594c0eaa27f3', value=20.64641584934531, timestamp=1576157338093}
-[2019-12-12 13:28:58,349] INFO - GasReadingService - Unknown location for gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='b76c1b00-458c-4ead-9c1f-594c0eaa27f3', value=20.64641584934531, timestamp=1576157338093}
-[2019-12-12 13:28:58,349] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='b76c1b00-458c-4ead-9c1f-594c0eaa27f3', value=20.64641584934531, timestamp=1576157338093}
-[2019-12-12 13:28:59,136] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='925f73ea-3dff-43c9-923a-96ad94a4a0cd', value=2.4147282023996066, timestamp=1576157339074}
-[2019-12-12 13:28:59,136] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='925f73ea-3dff-43c9-923a-96ad94a4a0cd', value=2.4147282023996066, timestamp=1576157339074}
-[2019-12-12 13:29:00,233] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='daedd02d-ba3a-4a2e-bc2a-b289f9ae287a', value=7.945498091765021, timestamp=1576157340176}
-[2019-12-12 13:29:00,233] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='daedd02d-ba3a-4a2e-bc2a-b289f9ae287a', value=7.945498091765021, timestamp=1576157340176}
-[2019-12-12 13:29:01,132] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='c778449f-80d9-4d09-aa03-f2bd107777b7', value=7.9270309230453275, timestamp=1576157341079}
-[2019-12-12 13:29:01,133] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='c778449f-80d9-4d09-aa03-f2bd107777b7', value=7.9270309230453275, timestamp=1576157341079}
-[2019-12-12 14:05:46,426] INFO - AWSUtils - Started downloading "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
-[2019-12-12 14:05:47,271] INFO - AWSUtils - Download completed
-[2019-12-12 14:05:47,272] INFO - JSONFileParser - Started parsing json file: locations.json
-[2019-12-12 14:05:47,296] INFO - JSONFileParser - Successfully parsed json file: locations.json
-[2019-12-12 14:05:47,839] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='e3c962e7-6a8a-4a48-af82-bd0bd710f04f', value=2.6985898749419253, timestamp=1576159547743}
-[2019-12-12 14:05:47,840] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='e3c962e7-6a8a-4a48-af82-bd0bd710f04f', value=2.6985898749419253, timestamp=1576159547743}
-[2019-12-12 14:05:48,558] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='e46ade73-41bc-4675-b037-f55b086099a6', value=8.193633973721736, timestamp=1576159548440}
-[2019-12-12 14:05:48,558] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='e46ade73-41bc-4675-b037-f55b086099a6', value=8.193633973721736, timestamp=1576159548440}
-[2019-12-12 14:05:49,374] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='68d44379-55b1-47de-82fd-c643414336bb', value=11.358210398935281, timestamp=1576159549299}
-[2019-12-12 14:05:49,374] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='68d44379-55b1-47de-82fd-c643414336bb', value=11.358210398935281, timestamp=1576159549299}
-[2019-12-12 14:05:49,553] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='74890795-5be6-4789-8691-f22841ca5b98', value=4.416321087604404, timestamp=1576159549300}
-[2019-12-12 14:05:49,553] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='74890795-5be6-4789-8691-f22841ca5b98', value=4.416321087604404, timestamp=1576159549300}
-[2019-12-12 14:05:49,981] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='803a619e-d2f9-48c0-b7d3-37f8e026a2ec', value=20.33921834934531, timestamp=1576159549915}
-[2019-12-12 14:05:49,981] INFO - GasReadingService - Unknown location for gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='803a619e-d2f9-48c0-b7d3-37f8e026a2ec', value=20.33921834934531, timestamp=1576159549915}
-[2019-12-12 14:05:49,981] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='803a619e-d2f9-48c0-b7d3-37f8e026a2ec', value=20.33921834934531, timestamp=1576159549915}
-[2019-12-12 14:05:50,891] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='b06485e5-59bb-4fd6-92a1-4c0f75529acb', value=3.0659586722169596, timestamp=1576159550773}
-[2019-12-12 14:05:50,891] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='b06485e5-59bb-4fd6-92a1-4c0f75529acb', value=3.0659586722169596, timestamp=1576159550773}
-[2019-12-12 14:05:51,367] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='63d394d2-fea1-4a25-a1ee-6c12592dffa9', eventId='62cb54dc-71aa-46c7-8ecb-6d021d3842b1', value=3.4056658567513383, timestamp=1576159551304}
-[2019-12-12 14:05:51,367] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='63d394d2-fea1-4a25-a1ee-6c12592dffa9', eventId='62cb54dc-71aa-46c7-8ecb-6d021d3842b1', value=3.4056658567513383, timestamp=1576159551304}
-[2019-12-12 14:05:52,341] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='ff3849fb-37a5-43ee-bcc3-eb564999584d', value=3.8591615482445727, timestamp=1576159552287}
-[2019-12-12 14:05:52,341] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='ff3849fb-37a5-43ee-bcc3-eb564999584d', value=3.8591615482445727, timestamp=1576159552287}
-[2019-12-12 14:05:52,587] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='1132bb21-1c04-4e8b-89d4-e72b9abfe7bf', value=8.187958729226578, timestamp=1576159552533}
-[2019-12-12 14:05:52,587] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='1132bb21-1c04-4e8b-89d4-e72b9abfe7bf', value=8.187958729226578, timestamp=1576159552533}
-[2019-12-12 14:05:52,753] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='80f578eb-773e-4902-b23d-b0c9560c58b9', eventId='ea03348f-d8a6-4ed2-a97d-4b9f0c988f6a', value=1.9717689965424934, timestamp=1576159552695}
-[2019-12-12 14:05:52,753] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='80f578eb-773e-4902-b23d-b0c9560c58b9', eventId='ea03348f-d8a6-4ed2-a97d-4b9f0c988f6a', value=1.9717689965424934, timestamp=1576159552695}
-[2019-12-12 14:05:53,867] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='8811a2a8-0254-4378-9e7f-d85590992950', value=8.193023882468346, timestamp=1576159553802}
-[2019-12-12 14:05:53,867] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='8811a2a8-0254-4378-9e7f-d85590992950', value=8.193023882468346, timestamp=1576159553802}
-[2019-12-12 14:05:53,954] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='c843afcd-61ee-4c12-b432-c6b5995da78a', value=2.69846177372018, timestamp=1576159553884}
-[2019-12-12 14:05:53,954] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='c843afcd-61ee-4c12-b432-c6b5995da78a', value=2.69846177372018, timestamp=1576159553884}
-[2019-12-12 14:05:54,685] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a081c88-7d6a-46cc-a429-4dd52d7e899a', eventId='000c534c-e68e-468f-a714-39b1db085c3e', value=7.999605211217721, timestamp=1576159554621}
-[2019-12-12 14:05:54,685] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a081c88-7d6a-46cc-a429-4dd52d7e899a', eventId='000c534c-e68e-468f-a714-39b1db085c3e', value=7.999605211217721, timestamp=1576159554621}
-[2019-12-12 14:05:55,302] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='7bce8d00-2647-4a8a-a8fc-da13482b8813', value=11.356645329452865, timestamp=1576159555238}
-[2019-12-12 14:05:55,303] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='7bce8d00-2647-4a8a-a8fc-da13482b8813', value=11.356645329452865, timestamp=1576159555238}
-[2019-12-12 14:05:55,709] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='c5d1c615-16cc-4883-beb6-189c9eee9051', value=4.419663604056162, timestamp=1576159555648}
-[2019-12-12 14:05:55,709] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='c5d1c615-16cc-4883-beb6-189c9eee9051', value=4.419663604056162, timestamp=1576159555648}
-[2019-12-12 14:05:55,913] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='896703ba-f153-4cd4-bc81-8ff88d7b2f47', value=20.33839334934531, timestamp=1576159555855}
-[2019-12-12 14:05:55,914] INFO - GasReadingService - Unknown location for gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='896703ba-f153-4cd4-bc81-8ff88d7b2f47', value=20.33839334934531, timestamp=1576159555855}
-[2019-12-12 14:05:55,914] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='896703ba-f153-4cd4-bc81-8ff88d7b2f47', value=20.33839334934531, timestamp=1576159555855}
-[2019-12-12 14:05:57,264] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='93e27dbe-db54-46b6-accd-4b646a9eac97', value=3.0651426445875734, timestamp=1576159557206}
-[2019-12-12 14:05:57,264] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='e5ef3ef5-d8f9-43a9-978b-e3c7d060aab8', eventId='93e27dbe-db54-46b6-accd-4b646a9eac97', value=3.0651426445875734, timestamp=1576159557206}
-[2019-12-12 14:05:57,465] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='63d394d2-fea1-4a25-a1ee-6c12592dffa9', eventId='bff037f6-7df0-4008-b3fd-e68efe0480ef', value=3.408012996682402, timestamp=1576159557412}
-[2019-12-12 14:05:57,465] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='63d394d2-fea1-4a25-a1ee-6c12592dffa9', eventId='bff037f6-7df0-4008-b3fd-e68efe0480ef', value=3.408012996682402, timestamp=1576159557412}
-[2019-12-12 14:05:57,747] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='6d03a4bc-5c35-494d-8883-d07647205916', value=8.18987930369533, timestamp=1576159557696}
-[2019-12-12 14:05:57,747] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='83969249-c227-4b5a-8e52-aa5b293cc3cc', eventId='6d03a4bc-5c35-494d-8883-d07647205916', value=8.18987930369533, timestamp=1576159557696}
-[2019-12-12 14:05:58,490] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='a4640b06-ae6f-4088-b952-95605f2df7c1', value=3.8586806081416927, timestamp=1576159558434}
-[2019-12-12 14:05:58,490] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='805bc14f-459b-4625-8833-cbc66806fa71', eventId='a4640b06-ae6f-4088-b952-95605f2df7c1', value=3.8586806081416927, timestamp=1576159558434}
-[2019-12-12 14:05:58,629] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='01e321c3-b350-44b2-b336-b497ec0677b1', value=20.366994043789752, timestamp=1576159349930}
-[2019-12-12 14:05:58,630] INFO - GasReadingService - Unknown location for gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='01e321c3-b350-44b2-b336-b497ec0677b1', value=20.366994043789752, timestamp=1576159349930}
-[2019-12-12 14:05:58,630] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='01e321c3-b350-44b2-b336-b497ec0677b1', value=20.366994043789752, timestamp=1576159349930}
-[2019-12-12 14:05:58,698] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='80f578eb-773e-4902-b23d-b0c9560c58b9', eventId='4a49ef6a-9786-4630-a128-eb07c585a970', value=1.97457300342132, timestamp=1576159558641}
-[2019-12-12 14:05:58,699] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='80f578eb-773e-4902-b23d-b0c9560c58b9', eventId='4a49ef6a-9786-4630-a128-eb07c585a970', value=1.97457300342132, timestamp=1576159558641}
-[2019-12-12 14:05:59,533] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='92eb3e0d-41af-4f3e-9fcc-c9b135e873f5', value=2.697350559289639, timestamp=1576159559463}
-[2019-12-12 14:05:59,534] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='87082207-2f78-4719-bfa8-2678796c7cce', eventId='92eb3e0d-41af-4f3e-9fcc-c9b135e873f5', value=2.697350559289639, timestamp=1576159559463}
-[2019-12-12 14:06:00,497] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='63de8fd9-ff8c-4577-918d-252f55837266', value=8.191322062002639, timestamp=1576159560441}
-[2019-12-12 14:06:00,497] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='4161a711-efe6-4bee-a486-d97d0f94a02c', eventId='63de8fd9-ff8c-4577-918d-252f55837266', value=8.191322062002639, timestamp=1576159560441}
-[2019-12-12 14:06:00,663] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='114f6ee0-5a2d-4074-81a5-6d510432ab0b', value=4.423265590559513, timestamp=1576159560607}
-[2019-12-12 14:06:00,663] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a88c751-4a9a-41b8-83e1-4f530cfa00e1', eventId='114f6ee0-5a2d-4074-81a5-6d510432ab0b', value=4.423265590559513, timestamp=1576159560607}
-[2019-12-12 14:06:00,832] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='2252f334-ef17-4b13-930f-810ba510800a', value=11.35498038607992, timestamp=1576159560772}
-[2019-12-12 14:06:00,832] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='f5489492-1645-4022-84ff-0f9749ba0ce9', eventId='2252f334-ef17-4b13-930f-810ba510800a', value=11.35498038607992, timestamp=1576159560772}
-[2019-12-12 14:06:01,204] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='1a081c88-7d6a-46cc-a429-4dd52d7e899a', eventId='29bb7ee1-c3a4-485d-9899-baddea88261f', value=7.9976792671314, timestamp=1576159561139}
-[2019-12-12 14:06:01,205] INFO - GasReadingService - Finished validation. Gas reading is valid: GasReading{locationId='1a081c88-7d6a-46cc-a429-4dd52d7e899a', eventId='29bb7ee1-c3a4-485d-9899-baddea88261f', value=7.9976792671314, timestamp=1576159561139}
-[2019-12-12 14:06:02,831] INFO - GasReadingService - Started validating gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='2b95d6f3-7af0-4a36-8000-13a5184c21a9', value=20.3374384882342, timestamp=1576159562730}
-[2019-12-12 14:06:02,831] INFO - GasReadingService - Unknown location for gas reading: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='2b95d6f3-7af0-4a36-8000-13a5184c21a9', value=20.3374384882342, timestamp=1576159562730}
-[2019-12-12 14:06:02,831] INFO - GasReadingService - Finished validation. Gas Reading is invalid: GasReading{locationId='4ca2face-600c-4ede-a9c9-fbb7257c9a24', eventId='2b95d6f3-7af0-4a36-8000-13a5184c21a9', value=20.3374384882342, timestamp=1576159562730}
+[2019-12-13 13:58:40,386] INFO - AWSUtils - Started fetching "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
+[2019-12-13 13:58:41,195] INFO - AWSUtils - Successfully fetched and parsed locations.json
+[2019-12-13 13:58:41,196] INFO - AWSQueue - Connecting to AWS...
+[2019-12-13 13:58:41,539] INFO - AWSQueue - Successfully connected to AWS and created queue
+[2019-12-13 13:58:42,487] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='194e7312-60c3-4943-b64c-565539cc3f13', eventId='ecb23784-191b-4a5a-959f-36270f63d496', value=5.590688141786013, timestamp=1576245522366}
+[2019-12-13 13:58:42,780] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='98440a00-f0ae-4419-8313-82becb15c411', eventId='69d73910-f555-47c1-99e3-41a487031518', value=3.8174370844183545, timestamp=1576245522695}
+[2019-12-13 13:58:43,397] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='d247337b-4520-4da4-8835-3f08c4645641', eventId='426c3f4e-4c42-4348-84d0-894e2a079122', value=9.161612655898505, timestamp=1576245523308}
+[2019-12-13 13:58:43,520] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='933f1c47-363e-444c-8989-470b8812c9fe', eventId='359dc4ef-95d6-4981-9d8e-cb613fa521b7', value=2.6854636634017828, timestamp=1576245523433}
+[2019-12-13 13:58:43,887] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='b846968d-e7ad-4312-8c88-4f4c54cb07fe', eventId='ff2371ec-bb66-4b2c-b422-4843e3257257', value=4.803055477751832, timestamp=1576245523798}
+[2019-12-13 13:58:43,974] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='8e066af6-b3a2-4568-b523-04a0ab2e727a', eventId='b23afee2-042c-4c48-b2f9-1b8e395547c1', value=10.129719236784368, timestamp=1576245523882}
+[2019-12-13 13:58:45,649] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='b5916fdf-5bcf-4d6b-94e1-d1b44a9817e9', eventId='1308b6a4-9db0-4723-938b-79753d7bb4ca', value=5.676675067358929, timestamp=1576245525559}
+[2019-12-13 13:58:45,746] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='db3ea2f9-8fc4-4677-8fff-39a028123757', eventId='d676bb0e-41f8-47ea-8f88-55534dd07763', value=7.517876783976645, timestamp=1576245525644}
+[2019-12-13 13:58:45,820] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='5578cee0-740b-45aa-8a53-3ffd0c8ebc91', eventId='efac9b7f-717f-45c5-bc11-3801f338fb0f', value=10.624514081580013, timestamp=1576245525603}
+[2019-12-13 13:58:46,376] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='13673fbc-efea-41d2-a315-ee0c2a63567f', eventId='4471caef-5c15-4c40-ab18-d59db41d0401', value=7.999970069755822, timestamp=1576245526260}
+[2019-12-13 13:58:46,702] INFO - GasReadingService - Failed to process Gas Reading. Unknown location: GasReading{locationId='177158cf-2ee4-43eb-a048-a9f6f4e366c1', eventId='928adf94-9c2d-4a75-8ead-d9e59eec68a4', value=17.50996926638181, timestamp=1576245526625}
+[2019-12-13 13:58:47,610] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='194e7312-60c3-4943-b64c-565539cc3f13', eventId='f94e990a-84a8-4343-b17d-23c782ad7c7c', value=5.590684719943689, timestamp=1576245527526}
+[2019-12-13 13:58:48,700] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='98440a00-f0ae-4419-8313-82becb15c411', eventId='ffa240f9-1610-4d28-bc8e-d00e2d01d1d4', value=3.8208416178794318, timestamp=1576245528593}
+[2019-12-13 13:58:49,082] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='d247337b-4520-4da4-8835-3f08c4645641', eventId='96401213-842a-47a7-90fa-934f9c4b57dc', value=9.163739933989975, timestamp=1576245528958}
+[2019-12-13 13:58:49,326] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='933f1c47-363e-444c-8989-470b8812c9fe', eventId='3e9a784b-a730-4d1f-b824-997597edc35d', value=2.6810560090434303, timestamp=1576245529246}
+[2019-12-13 13:58:49,816] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='8e066af6-b3a2-4568-b523-04a0ab2e727a', eventId='28e5bcc6-b405-426a-8da7-acc358a0140c', value=10.132537422949918, timestamp=1576245529736}
+[2019-12-13 13:58:50,680] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='b846968d-e7ad-4312-8c88-4f4c54cb07fe', eventId='fc2fbb3b-4a98-4922-8c1d-c25d29ca2362', value=4.8000831458095305, timestamp=1576245530600}
+[2019-12-13 13:58:51,174] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='5578cee0-740b-45aa-8a53-3ffd0c8ebc91', eventId='3473344d-a3b3-425e-89ec-9c827c4cf8e1', value=10.625574639534195, timestamp=1576245531091}
+[2019-12-13 13:58:51,361] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='5578cee0-740b-45aa-8a53-3ffd0c8ebc91', eventId='3473344d-a3b3-425e-89ec-9c827c4cf8e1', value=10.625574639534195, timestamp=1576245531091}
+[2019-12-13 13:58:52,364] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='db3ea2f9-8fc4-4677-8fff-39a028123757', eventId='4c486af4-62e2-4161-a7a2-21247a9b04cf', value=7.525043221278146, timestamp=1576245531913}
+[2019-12-13 13:58:52,365] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='b5916fdf-5bcf-4d6b-94e1-d1b44a9817e9', eventId='118e9b1c-4b8f-42ce-92d2-cc0a4c0675f8', value=5.678004256587507, timestamp=1576245532235}
+[2019-12-13 13:58:52,939] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='13673fbc-efea-41d2-a315-ee0c2a63567f', eventId='eb022a1b-d9b9-400a-8bf8-b11e3bab77d1', value=8.00187523165436, timestamp=1576245532851}
+[2019-12-13 13:58:53,052] INFO - GasReadingService - Failed to process Gas Reading. Unknown location: GasReading{locationId='177158cf-2ee4-43eb-a048-a9f6f4e366c1', eventId='fbebf547-e7ed-49db-96bf-3cc277013f1b', value=17.50908773860403, timestamp=1576245532972}
+[2019-12-13 13:58:53,437] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='194e7312-60c3-4943-b64c-565539cc3f13', eventId='7cfe05da-e074-4efb-9327-0630a3446da5', value=5.590699834939513, timestamp=1576245533341}
+[2019-12-13 13:58:53,952] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='98440a00-f0ae-4419-8313-82becb15c411', eventId='f67cf3ce-b625-47eb-a29e-930590fe1d51', value=3.8243693912380743, timestamp=1576245533872}
+[2019-12-13 13:58:54,733] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='933f1c47-363e-444c-8989-470b8812c9fe', eventId='0fa44f1f-64d9-4e43-99d2-b02bbd06b561', value=2.6761322499113547, timestamp=1576245534650}
+[2019-12-13 13:58:55,102] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='d247337b-4520-4da4-8835-3f08c4645641', eventId='ea876e62-a826-41c2-adc9-84037dbbe655', value=9.166332445090104, timestamp=1576245535019}
+[2019-12-13 13:58:55,918] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='8e066af6-b3a2-4568-b523-04a0ab2e727a', eventId='c20e5b8b-c985-4709-872c-fcd7a8bed38e', value=10.135705506120928, timestamp=1576245535837}
+[2019-12-13 13:58:57,307] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='5578cee0-740b-45aa-8a53-3ffd0c8ebc91', eventId='b213ad77-a0a6-4eef-9d86-73baf5209e6f', value=10.626965079020081, timestamp=1576245537227}
+[2019-12-13 13:58:57,380] INFO - AWSQueue - Deleted queue from AWS
+[2019-12-13 13:58:57,518] INFO - AWSQueue - Unsubscribed from AWS Topic
+[2019-12-13 14:11:27,461] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:12:18,896] INFO - GasReadingService - Failed to process Gas Reading. Unknown location: GasReading{locationId='714e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:14:42,233] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:18:13,937] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:18:13,940] INFO - GasReadingService - Failed to process. Gas reading is a duplicate: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:30:14,729] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:30:14,730] INFO - GasReadingService - Failed to process. Gas reading is a duplicate: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:30:20,647] INFO - AWSUtils - Started fetching "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
+[2019-12-13 14:30:21,479] INFO - AWSUtils - Successfully fetched and parsed locations.json
+[2019-12-13 14:30:21,480] INFO - AWSQueue - Connecting to AWS...
+[2019-12-13 14:30:22,134] INFO - AWSQueue - Successfully connected to AWS and created queue
+[2019-12-13 14:30:23,855] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='d247337b-4520-4da4-8835-3f08c4645641', eventId='d67442eb-ee0c-4ff0-95bd-6aa01a0ebb82', value=9.370517320504987, timestamp=1576247327080}
+[2019-12-13 14:30:23,855] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='db3ea2f9-8fc4-4677-8fff-39a028123757', eventId='7afce03c-e4ad-4f63-a81a-0c62b977fb56', value=7.89098737175066, timestamp=1576247423741}
+[2019-12-13 14:30:23,934] INFO - GasReadingService - Failed to process Gas Reading. Unknown location: GasReading{locationId='177158cf-2ee4-43eb-a048-a9f6f4e366c1', eventId='5f5c5703-9fb5-4735-a107-cdf5ddf42888', value=17.24990829415959, timestamp=1576247399064}
+[2019-12-13 14:30:24,143] INFO - GasReadingService - Failed to process Gas Reading. Unknown location: GasReading{locationId='177158cf-2ee4-43eb-a048-a9f6f4e366c1', eventId='d3d12397-b271-404b-b77f-ac3b06d9601d', value=17.246435794159588, timestamp=1576247424066}
+[2019-12-13 14:30:24,315] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='8e066af6-b3a2-4568-b523-04a0ab2e727a', eventId='be48b208-c317-4b58-bbb5-92b44e79d7b6', value=10.372227141066586, timestamp=1576247424232}
+[2019-12-13 14:30:24,625] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='d247337b-4520-4da4-8835-3f08c4645641', eventId='0161789f-4283-4df3-94a8-ad4f41d3c567', value=9.512294894962679, timestamp=1576247424556}
+[2019-12-13 14:30:24,768] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='194e7312-60c3-4943-b64c-565539cc3f13', eventId='8613e19d-946e-442b-bf0f-9f985fff37e8', value=5.881097087941116, timestamp=1576247424682}
+[2019-12-13 14:30:24,769] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='b5916fdf-5bcf-4d6b-94e1-d1b44a9817e9', eventId='faa8348a-10a4-4a26-849b-8cc1f0a2fcf6', value=5.9030618454553645, timestamp=1576247424598}
+[2019-12-13 14:30:24,967] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='933f1c47-363e-444c-8989-470b8812c9fe', eventId='d4f88330-9488-4c3c-b470-aafab9c65dce', value=2.8102998804536394, timestamp=1576247424884}
+[2019-12-13 14:30:25,041] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='5578cee0-740b-45aa-8a53-3ffd0c8ebc91', eventId='a772404d-a9db-4a09-b69f-2ba6adca3d16', value=10.889312986096094, timestamp=1576247424965}
+[2019-12-13 14:30:25,087] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='13673fbc-efea-41d2-a315-ee0c2a63567f', eventId='40ecb533-f223-4986-a65d-8df8edc7e353', value=8.160505662812486, timestamp=1576247425006}
+[2019-12-13 14:30:25,901] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='b846968d-e7ad-4312-8c88-4f4c54cb07fe', eventId='90291045-f1ea-4b2c-a704-24ac6883027f', value=5.032042717308779, timestamp=1576247425788}
+[2019-12-13 14:30:26,719] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='98440a00-f0ae-4419-8313-82becb15c411', eventId='37c751d0-8336-4815-85e1-7e3412fcaf1c', value=4.015756772764192, timestamp=1576247426647}
+[2019-12-13 14:30:29,097] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='db3ea2f9-8fc4-4677-8fff-39a028123757', eventId='f1996b17-b666-483f-99f5-a1a4f34ea7c0', value=7.892357734067053, timestamp=1576247429017}
+[2019-12-13 14:30:29,493] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='8e066af6-b3a2-4568-b523-04a0ab2e727a', eventId='68f206c0-8d70-41ad-99f7-75caf1919938', value=10.371087928927565, timestamp=1576247429426}
+[2019-12-13 14:30:30,276] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='194e7312-60c3-4943-b64c-565539cc3f13', eventId='66443f0b-b5cd-4440-b6db-52378173f8d9', value=5.882032326900201, timestamp=1576247430201}
+[2019-12-13 14:30:30,340] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='933f1c47-363e-444c-8989-470b8812c9fe', eventId='036bc3b9-dfa5-4572-9e17-68d2d071a506', value=2.810387454417549, timestamp=1576247430245}
+[2019-12-13 14:30:30,764] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='b5916fdf-5bcf-4d6b-94e1-d1b44a9817e9', eventId='f403eaf5-15ec-4141-965d-b21603a2b995', value=5.903561494593393, timestamp=1576247430695}
+[2019-12-13 14:30:30,858] INFO - GasReadingService - Failed to process Gas Reading. Unknown location: GasReading{locationId='177158cf-2ee4-43eb-a048-a9f6f4e366c1', eventId='1d6636e0-355f-4522-8d41-dd6a5900d171', value=17.245503433048476, timestamp=1576247430779}
+[2019-12-13 14:30:31,005] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='d247337b-4520-4da4-8835-3f08c4645641', eventId='e43dc462-18f5-477c-8514-ed7f3072a4ea', value=9.513955306172202, timestamp=1576247430938}
+[2019-12-13 14:30:31,105] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='5578cee0-740b-45aa-8a53-3ffd0c8ebc91', eventId='f5fafc89-4960-4437-a039-5ae58c4bc385', value=10.891533655470193, timestamp=1576247430938}
+[2019-12-13 14:30:31,497] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='13673fbc-efea-41d2-a315-ee0c2a63567f', eventId='8a06b4f5-da1a-4e7c-84f4-f863f58da908', value=8.1602473747333, timestamp=1576247431428}
+[2019-12-13 14:30:32,085] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='b846968d-e7ad-4312-8c88-4f4c54cb07fe', eventId='8b8e03e6-11cf-4606-a905-1e961c8b0ab4', value=5.035956572650949, timestamp=1576247432004}
+[2019-12-13 14:30:32,975] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='98440a00-f0ae-4419-8313-82becb15c411', eventId='e2b76485-4469-4847-aea6-e052ed1edb87', value=4.018753841304646, timestamp=1576247432900}
+[2019-12-13 14:30:34,597] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='db3ea2f9-8fc4-4677-8fff-39a028123757', eventId='e1e47e5e-9610-4cd4-bdab-c9d6f9ab2bad', value=7.8934815673382595, timestamp=1576247434497}
+[2019-12-13 14:30:35,712] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='194e7312-60c3-4943-b64c-565539cc3f13', eventId='7ec2417d-f3e9-4c4a-8b1f-c1b5437e12b0', value=5.882310546907125, timestamp=1576247435607}
+[2019-12-13 14:30:35,839] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='8e066af6-b3a2-4568-b523-04a0ab2e727a', eventId='0b4ed533-c1a0-4eb0-918b-71567f22492d', value=10.369856708435048, timestamp=1576247435766}
+[2019-12-13 14:30:36,327] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='5578cee0-740b-45aa-8a53-3ffd0c8ebc91', eventId='a0748ec7-7b63-4937-ae9f-a84051626bbe', value=10.893180252629286, timestamp=1576247436257}
+[2019-12-13 14:30:36,468] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='13673fbc-efea-41d2-a315-ee0c2a63567f', eventId='8393210e-b2a1-427c-a371-cec07ce152e7', value=8.160371161478462, timestamp=1576247436383}
+[2019-12-13 14:30:36,468] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='d247337b-4520-4da4-8835-3f08c4645641', eventId='0a1420d7-c9a5-4796-a01e-ace89ecec4c6', value=9.514687312473706, timestamp=1576247436302}
+[2019-12-13 14:30:36,744] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='933f1c47-363e-444c-8989-470b8812c9fe', eventId='f88a0d80-4249-40ee-b780-5849b9c3f1c8', value=2.8111782765216984, timestamp=1576247436671}
+[2019-12-13 14:30:37,519] INFO - GasReadingService - Failed to process Gas Reading. Unknown location: GasReading{locationId='177158cf-2ee4-43eb-a048-a9f6f4e366c1', eventId='ffedae51-a01f-4ac5-9eed-70beacfd9e73', value=17.244577460826253, timestamp=1576247437446}
+[2019-12-13 14:30:37,578] INFO - AWSQueue - Deleted queue from AWS
+[2019-12-13 14:30:37,699] INFO - AWSQueue - Unsubscribed from AWS Topic
+[2019-12-13 14:31:18,677] INFO - AWSUtils - Started fetching "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
+[2019-12-13 14:31:19,489] INFO - AWSUtils - Successfully fetched and parsed locations.json
+[2019-12-13 14:31:19,489] INFO - AWSQueue - Connecting to AWS...
+[2019-12-13 14:47:54,165] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:48:48,088] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:49:02,584] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:50:39,992] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:51:25,700] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:53:09,770] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-13 14:53:42,885] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-16 12:53:16,248] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-16 12:53:16,290] INFO - GasReadingService - Failed to process Gas Reading. Unknown location: GasReading{locationId='714e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-16 12:53:16,292] INFO - GasReadingService - Successfully processed Gas Reading: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-16 12:53:16,292] INFO - GasReadingService - Failed to process. Gas reading is a duplicate: GasReading{locationId='79e14e8f-e531-46f0-90a0-2d43ae5366fc', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-16 12:53:16,441] INFO - JSONFileParser - Incomplete gas reading: GasReading{locationId='null', eventId='654b1799-6de6-467d-b680-730d762aad3f', value=6.8561332379019095, timestamp=1576149824757}
+[2019-12-16 12:53:23,910] INFO - AWSUtils - Started fetching "locations.json" from S3 bucket "eventprocessing-locationss3bucket-7mbrb9iiisk4" ...
+[2019-12-16 12:53:24,898] INFO - AWSUtils - Successfully fetched and parsed locations.json
+[2019-12-16 12:53:24,903] INFO - AWSQueue - Connecting to AWS...
+[2019-12-16 12:53:25,358] INFO - AWSQueue - Successfully connected to AWS and created queue
+[2019-12-16 12:53:40,454] INFO - AWSQueue - Deleted queue from AWS
+[2019-12-16 12:53:40,581] INFO - AWSQueue - Unsubscribed from AWS Topic

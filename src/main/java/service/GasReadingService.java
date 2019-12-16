@@ -2,68 +2,58 @@ package service;
 
 import model.GasReading;
 import model.Location;
+import model.ProcessedGasReading;
 import org.apache.logging.log4j.LogManager;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.time.Clock;
+import java.util.*;
 
 public class GasReadingService {
     private static final int FIVE_MINUTES = 300000;
-    private static final int MIN = 60000;
     private List<Location> locationList;
-    private Map<String, Long> processedGasReadings;
+    private Queue<ProcessedGasReading> processedGasReadings;
     private static final org.apache.logging.log4j.Logger LOGGER = LogManager.getLogger();
 
 
     public GasReadingService(List<Location> locationList){
         this.locationList = locationList;
-        processedGasReadings = new HashMap<>();
-        
+        processedGasReadings = new LinkedList<>();
+
     }
 
-    public boolean processReading(GasReading gasReading) {
-        LOGGER.info("Started validating gas reading: " + gasReading.toString());
-        if(isGasReadingFromLocationList(gasReading) && !isDuplicateReading(gasReading)){
+    public double processReadingAndReturnReadingValue(GasReading gasReading) {
+            processedGasReadings.add(new ProcessedGasReading(gasReading.getEventId(), Clock.systemDefaultZone().millis()));
+            LOGGER.info("Successfully processed Gas Reading: " + gasReading.toString());
+            return gasReading.getValue();
 
-            processedGasReadings.put(gasReading.getEventId(), gasReading.getTimestamp());
-            LOGGER.info("Finished validation. Gas reading is valid: " + gasReading.toString());
-            return true;
-        }
-        LOGGER.info("Finished validation. Gas Reading is invalid: " + gasReading.toString());
-        return false;
     }
 
-
-
-    private boolean isDuplicateReading(GasReading gasReading) {
-        cleanHashMap(gasReading.getTimestamp());
-        for(String readingId : processedGasReadings.keySet()){
-            if(gasReading.getEventId().equals(readingId)){
-                LOGGER.info("Gas reading is a duplicate: " + gasReading.toString());
-                return true;
-            }
-        }
-        return false;
-    }
-
-    private void cleanHashMap(long timestamp) {
-        for(Map.Entry<String, Long> entry : processedGasReadings.entrySet()){
-            if(timestamp - entry.getValue() > FIVE_MINUTES){
-                LOGGER.info(String.format("Deleting eventKey of a gas reading older than 5 minutes. " +
-                                "EventKey: %s, Timestamp: %d", entry.getKey(), entry.getValue()));
-                processedGasReadings.remove(entry.getKey());
-            }
+    private void cleanQueueOfOldReadings() {
+        long now = Clock.systemDefaultZone().millis();
+        while(!processedGasReadings.isEmpty() && now - processedGasReadings.peek().getTimestamp() > FIVE_MINUTES){
+            processedGasReadings.remove();
         }
     }
 
-    private boolean isGasReadingFromLocationList(GasReading gasReading) {
+    public boolean isValidLocation(GasReading gasReading) {
         boolean isInLocationList = locationList.stream()
                 .anyMatch(location -> location.getId().equals(gasReading.getLocationId()));
         if(!isInLocationList){
-            LOGGER.info("Unknown location for gas reading: " + gasReading.toString());
+            LOGGER.info("Failed to process Gas Reading. Unknown location: " + gasReading.toString());
         }
         return isInLocationList;
+    }
+
+    public boolean isUniqueReading(GasReading gasReading) {
+        cleanQueueOfOldReadings();
+        if (processedGasReadings.contains(new ProcessedGasReading(gasReading.getEventId(),null))) {
+            LOGGER.info("Failed to process. Gas reading is a duplicate: " + gasReading.toString());
+            return false;
+        }
+        return true;
+    }
+
+    public Queue<ProcessedGasReading> getProcessedGasReadings() {
+        return processedGasReadings;
     }
 }

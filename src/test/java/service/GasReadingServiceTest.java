@@ -31,11 +31,12 @@ public class GasReadingServiceTest {
                 Long.parseLong("1576149824757"));
 
         //Act
-        boolean valid = gasReadingService.processReading(gasReading);
+        double readingValue = gasReadingService.processReadingAndReturnReadingValue(gasReading);
 
 
         //Assert
-        assertThat(valid).isEqualTo(true);
+        assertThat(readingValue).isEqualTo(gasReading.getValue());
+        assertThat(gasReadingService.getProcessedGasReadings().size()).isEqualTo(1);
     }
 
     @Test
@@ -47,11 +48,11 @@ public class GasReadingServiceTest {
                 Long.parseLong("1576149824757"));
 
         //Act
-        boolean valid = gasReadingService.processReading(gasReading);
+        boolean isValidLocation = gasReadingService.isValidLocation(gasReading);
 
 
         //Assert
-        assertThat(valid).isEqualTo(false);
+        assertThat(isValidLocation).isEqualTo(false);
     }
 
     @Test
@@ -63,37 +64,11 @@ public class GasReadingServiceTest {
                 Long.parseLong("1576149824757"));
 
         //Act
-        boolean valid1 = gasReadingService.processReading(gasReading);
-        boolean valid2 = gasReadingService.processReading(gasReading);
+        gasReadingService.processReadingAndReturnReadingValue(gasReading);
 
-
-
-        //Assert
-        assertThat(valid1).isEqualTo(true);
-        assertThat(valid2).isEqualTo(false);
-    }
-
-    @Test
-    public void givenGasReadingServiceEventIdListIsDeletingReadingsOlderThan5Minutes() {
-        //Arrange
-        GasReading gasReading1 = new GasReading(
-                "79e14e8f-e531-46f0-90a0-2d43ae5366fc",
-                "654b1799-6de6-467d-b680-730d762aad3f",
-                6.8561332379019095,
-                Long.parseLong("1576149824757"));
-
-        GasReading gasReading1CopyWithTimeStampIncrementedBy5Min = new GasReading(
-                "79e14e8f-e531-46f0-90a0-2d43ae5366fc",
-                "654b1799-6de6-467d-b680-730d762aad3f",
-                6.8561332379019095,
-                Long.parseLong("1576150124758"));
-
-        //Act
-        boolean valid1 = gasReadingService.processReading(gasReading1);
-        boolean valid2 = gasReadingService.processReading(gasReading1CopyWithTimeStampIncrementedBy5Min);
+        boolean uniqueReading = gasReadingService.isUniqueReading(gasReading);
 
         //Assert
-        assertThat(valid1).isEqualTo(true);
-        assertThat(valid2).isEqualTo(true);
+        assertThat(uniqueReading).isEqualTo(false);
     }
 }
